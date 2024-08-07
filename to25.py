@@ -23,6 +23,6 @@ if number > 25:  # Verifica se o número é maior que 25
 else:  # Se o número for menor ou igual a 25
     while number < 26:  # Enquanto number for menor que 26
         print(f"Inside the loop, my variable is {number}")  # Imprime o valor atual de number
-        if (number == 25):  # Verifica se number é igual a 25
-            break  # Sai do loop se number for 25
+#        if (number == 25):  # Verifica se number é igual a 25
+#            break  # Sai do loop se number for 25
         number += 1  # Incrementa number em 1
